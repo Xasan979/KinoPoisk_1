@@ -15,8 +15,6 @@
              ░░╚██╔╝░░███████╗██║░╚██╗
              ░░░╚═╝░░░╚══════╝╚═╝░░╚═╝
 ```
-## Task
-https://disk.yandex.ru/i/Qy4d1ASip0S1FA
 
 ## ⚡ Quick Setup
 
